@@ -1,0 +1,23 @@
+.circle {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+/* center footer and stick to the bottom */
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+
+/* set margin between buttons */
+button {
+    margin: 10px;
+}
+
